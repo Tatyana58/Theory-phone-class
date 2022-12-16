@@ -1,4 +1,5 @@
 public class PhoneBook {
+
     private final Contact[] contacts;
     // Объявили массив Contact, реализуемый в классе Contact
     private int size;

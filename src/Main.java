@@ -1,4 +1,5 @@
 public class Main {
+
     public static void main(String[] args) {
         PhoneBook phoneBook = new PhoneBook();
 
@@ -25,5 +26,7 @@ public class Main {
         // Снова распечатываем все контакты
         System.out.println("Размер тел. книги: " + phoneBook.getCurrentSize());
         // Снова распечатываем размер телефонной книги
+
+
     }
 }
